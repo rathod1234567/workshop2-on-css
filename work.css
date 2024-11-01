@@ -7,7 +7,7 @@ body{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
     gap: 10px;
     margin: 10px 0px;
-    padding: 5px;
+    padding: 15px;
 }
 .child{
     background-color: rgb(224, 155, 69);
